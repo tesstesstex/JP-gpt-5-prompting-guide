@@ -1,11 +1,7 @@
-# JP-gpt-5-prompting-guide
+# 日本語翻訳 GPT-5 prompting guide
 [元記事](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
 
-# 本文翻訳
-# JP-gpt-5-prompting-guide
-[元記事](https://cookbook.openai.com/examples/gpt-5/gpt-5_prompting_guide)
-
-# 本文翻訳
+# 本文
 当社の最新フラッグシップモデルであるGPT-5は、エージェント的なタスク遂行能力、コーディング、基礎知能、そして制御性において、大きな飛躍を遂げています。
 
 GPT-5は幅広い分野で「初期設定のまま」でも優れた性能を発揮すると確信していますが、このガイドでは、私たちがモデルのトレーニングや実世界での応用から学んだ、最高のパフォーマンスを引き出すための具体的なプロンプト戦略とAPIのベストプラクティスを紹介します。
